@@ -1,3 +1,3 @@
-module github.com/psfpro/go-awesome
+module github.com/psfpro/goawesome
 
 go 1.21
