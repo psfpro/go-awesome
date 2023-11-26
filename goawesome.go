@@ -1,4 +1,4 @@
-package main
+package goawesome
 
 func Add(a, b int) int {
 	return a + b
